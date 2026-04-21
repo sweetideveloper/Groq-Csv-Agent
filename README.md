@@ -110,9 +110,3 @@ If you like this project, give it a ⭐ on GitHub!
 **Sweeti Yuonate**
 Data Analyst | Python | SQL | Power BI
 
-
-
-
-
-If you want next level:
-👉 I can create **custom banner + thumbnail + LinkedIn post for this project** 🚀
