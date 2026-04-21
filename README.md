@@ -1,6 +1,7 @@
-📊 Groq CSV AI Agent</h1>
+<h1 align="center">📊 Groq CSV AI Agent</h1>
 
- 🚀 Chat with your CSV data & generate AI-powered visualizations using Groq + LangChain
+<p align="center">
+  🚀 Chat with your CSV data & generate AI-powered visualizations using Groq + LangChain
 </p>
 
 ---
@@ -24,14 +25,6 @@
 - 📊 Pandas  
 - 📈 Matplotlib & Seaborn  
 - 🌐 Streamlit  
-
----
-
-## 🎥 Demo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600"/>
-</p>
 
 ---
 
@@ -116,3 +109,10 @@ If you like this project, give it a ⭐ on GitHub!
 
 **Sweeti Yuonate**
 Data Analyst | Python | SQL | Power BI
+
+
+
+
+
+If you want next level:
+👉 I can create **custom banner + thumbnail + LinkedIn post for this project** 🚀
