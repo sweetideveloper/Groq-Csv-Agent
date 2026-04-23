@@ -1,3 +1,4 @@
+
 <h1 align="center">📊 Groq CSV AI Agent</h1>
 
 <p align="center">
@@ -25,6 +26,17 @@
 - 📊 Pandas  
 - 📈 Matplotlib & Seaborn  
 - 🌐 Streamlit  
+
+---
+
+## 🎥 Demo
+
+<img width="1859" height="824" alt="Screenshot 2026-04-23 142349" src="https://github.com/user-attachments/assets/b11a96d7-c200-4b83-b4be-2df12949110c" />
+
+
+<img width="1853" height="790" alt="Screenshot 2026-04-23 142505" src="https://github.com/user-attachments/assets/6f9d7598-871f-4528-b759-b148dede2110" />
+
+
 
 ---
 
@@ -76,14 +88,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="500"/>
-</p>
-
----
-
 ## 🚀 Future Improvements
 
 * Add export options (CSV/PNG)
@@ -109,4 +113,5 @@ If you like this project, give it a ⭐ on GitHub!
 
 **Sweeti Yuonate**
 Data Analyst | Python | SQL | Power BI
+
 
