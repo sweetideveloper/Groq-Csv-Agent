@@ -1,5 +1,5 @@
 
-<h1 align="center">📊 Groq CSV AI Agent</h1>
+<h1 align="center">⚡🤖Groq CSV AI Agent</h1>
 
 <p align="center">
   🚀 Chat with your CSV data & generate AI-powered visualizations using Groq + LangChain
